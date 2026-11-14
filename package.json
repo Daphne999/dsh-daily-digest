@@ -1,6 +1,6 @@
 {
   "name": "dsh-daily-digest",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Daily digest for DeepSeek Harness: diff the curated plugin market and the Chinese education SRC calendars, so a heartbeat turn has something concrete to report. | 每日简报：对比插件市场新增 + 教育行业 SRC 活动变化，给 agent 一个可复述的清单。",
   "type": "module",
   "main": "lib/index.js",

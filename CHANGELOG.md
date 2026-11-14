@@ -13,3 +13,4 @@
 - 187c812 fix(digest): filter login/help chrome out of SRC page titles
 - 3138377 feat: initial release
 
+* 0.1.2 2026-11-14：修端口发现。inject 补上 webServer；问不到端口时按进程名+监听端口动态找，不再回落到写死的 61310（市场读不到就是走的这条死路）。
